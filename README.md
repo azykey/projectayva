@@ -1,3 +1,11 @@
+
+
+
+          
+O Projeto Ayva consiste em três componentes principais: Adilson Dashboard (interface gráfica em C++ usando API Win32 para gerenciar projetos e automatizar compilações), AdilsonCrypto (biblioteca criptográfica implementando curva elíptica secp256k1 com OpenSSL) e AdilsonCore (biblioteca visando superar o Rust em desempenho). O projeto está em estágio inicial, com implementações parciais e discrepâncias entre as ambiciosas afirmações na documentação e o estado atual do código. O Dashboard depende fortemente da API Win32, limitando portabilidade, enquanto o AdilsonCrypto depende do OpenSSL apesar das afirmações de "zero dependências". A estrutura é modular com interfaces bem definidas, mas requer completar implementações, melhorar portabilidade, realizar testes para validar afirmações de desempenho, fornecer documentação mais detalhada e revisar as afirmações para refletir o estado atual.
+        
+
+
 # 🚀 Adilson Dashboard - Superando Electron
 
 ## Propriedade Intelectual: Adilson Oliveira 2025
@@ -231,4 +239,5 @@ O **Adilson Dashboard** representa o futuro do desenvolvimento de aplicações d
 ---
 
 *Propriedade Intelectual: Adilson Oliveira 2025*  
+
 *Todos os direitos reservados* 
