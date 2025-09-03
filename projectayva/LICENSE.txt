@@ -1,0 +1,14 @@
+Propriedade Intelectual e Direitos Autorais — Adilson Oliveira 2025
+===============================================================
+
+Todo o código, documentação, exemplos e recursos deste projeto são de autoria exclusiva de Adilson Oliveira, 2025.
+
+- Código 100% original, sem dependências externas de terceiros.
+- Todos os direitos reservados.
+- É proibida a cópia, redistribuição, modificação ou uso comercial sem autorização expressa do autor.
+- O uso deste projeto para fins de estudo, demonstração ou inspiração é permitido, desde que mantidos os créditos e não haja uso comercial.
+- Qualquer violação destes termos poderá resultar em sanções legais.
+
+Assinatura digital: SHA-256 de cada arquivo principal.
+
+Para contato, dúvidas ou licenciamento especial, procure Adilson Oliveira. 

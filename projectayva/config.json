@@ -1,0 +1,12 @@
+{
+  "nome": "MeuAppCpp",
+  "fontes": [
+    "main.cpp",
+    "janela.cpp"
+  ],
+  "recursos": [
+    "icon.png",
+    "config.ini"
+  ],
+  "pasta_saida": "build"
+} 
